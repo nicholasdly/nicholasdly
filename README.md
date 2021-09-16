@@ -1,6 +1,6 @@
-Hey! I'm Nicholas Ly (@nicholasdly), and I'm a third year Computer Science undergraduate student at Michigan State University!
+Hi! I'm Nicholas Ly (@nicholasdly), and I'm a third year Computer Science undergraduate student at Michigan State University!
 
-I have taken programming classes based around Python and C++, but I have taken classes such as Calculus I, II, and III,
+I have taken programming classes based around Python and C++, but have also taken classes such as Calculus I, II, and III,
 Discrete Mathematics, Algorithms and Data Structures, and Software Design.
 
 I'm interested in all things computer science, specifically software development and data analysis. I have recently
