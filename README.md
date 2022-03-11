@@ -7,8 +7,6 @@ I'm interested in all things computer science, specifically software development
 recently learned a bit of the cybersecurity field though, and that is quickly growing to become a larger
 interest of mine!
 
-I'm currently learning matrix algebra, the philosophy of computability, and computer architecture. I am always
-trying to learn new things though, whether that is a subject I'm not familiar with, or a subject I have experience
-in!
+I am always trying to learn new things though, whether that is a subject I'm not familiar with, or a subject I have experience in!
 
 You can contact me at anytime by emailing me at "lynichol@msu.edu"! Thank you!
