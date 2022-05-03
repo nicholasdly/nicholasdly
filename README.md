@@ -8,6 +8,6 @@ I plan on graduating with a bachelor's degree during the month of May of 2023, a
 - Computer Organization and Architecture
 - Calculus I, II, and III
 - Linear Algebra
-- and Interdiciplinary Topics in Cybersecurity!
+- and Interdisciplinary Topics in Cybersecurity!
 
 I have excellent writing, speaking, and organizational skills, and I am actively developing my skills in development, web design, and machine learning, and strive to produce high quality, efficient, and beautiful code!
