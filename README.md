@@ -1,12 +1,13 @@
-Hi! I'm Nicholas Ly, and I'm a third year Computer Science undergraduate student at Michigan State University!
+I am a computer science undergraduate student from Glendale Heights, Illinois, studying at Michigan State University. Software development and problem solving has been a strong passion of mine for many years, and I am both eager and excited to step into a development or analysis role!
 
-I have taken programming classes based around Python and C++, but have also taken classes such as Calculus I,
-II, and III, Discrete Mathematics, Algorithms and Data Structures, and Software Design.
+I plan on graduating with a bachelor's degree during the month of May of 2023, and some of my studies have involved:
+- Introduction to Programming I (Python)
+- Introduction to Programming II (C++)
+- Algorithms and Data Structures
+- Object-Oriented Software Development
+- Computer Organization and Architecture
+- Calculus I, II, and III
+- Linear Algebra
+- and Interdiciplinary Topics in Cybersecurity!
 
-I'm interested in all things computer science, specifically software development and data analysis. I have
-recently learned a bit of the cybersecurity field though, and that is quickly growing to become a larger
-interest of mine!
-
-I am always trying to learn new things though, whether that is a subject I'm not familiar with, or a subject I have experience in!
-
-You can contact me at anytime by emailing me at "lynichol@msu.edu"! Thank you!
+I have excellent writing, speaking, and organizational skills, and I am actively developing my skills in development, web design, and machine learning, and strive to produce high quality, efficient, and beautiful code!
